@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+require 'sinatra'
+require 'better_errors'
+require 'pry'
+
+#binding.pry
+
+configure :development do
+  use BetterErrors::Middleware
+  BetterErrors.application_root = __dir__
+end
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sinatra</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ruby</scope>
+</snippet>
