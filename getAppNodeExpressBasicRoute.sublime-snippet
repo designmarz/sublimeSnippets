@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 app.get('/', function (req, res) {
-	res.sendfile(__dirname + "");
+	res.sendFile(__dirname + "");
 });
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
