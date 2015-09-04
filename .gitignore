@@ -2,3 +2,4 @@
 !*.sublime-snippet
 !*.gitignore
 !README.md
+!Package Control.sublime-settings

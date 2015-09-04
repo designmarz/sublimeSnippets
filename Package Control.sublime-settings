@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Google Spell Check",
+		"Handlebars",
+		"JSX",
+		"KeyboardSpellCheck",
+		"LESS",
+		"LoremIpsum",
+		"Package Control",
+		"RubyMotionBuilder",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"SublimeLinter-ruby"
+	]
+}
