@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,6 +10,7 @@
 		"Colorsublime",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Glue",
 		"Google Spell Check",
 		"Handlebars",
 		"JSX",
@@ -16,11 +18,14 @@
 		"LESS",
 		"LoremIpsum",
 		"Package Control",
+		"RubyMotion Autocomplete",
 		"RubyMotionBuilder",
+		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint",
 		"SublimeLinter-php",
-		"SublimeLinter-ruby"
+		"SublimeLinter-ruby",
+		"Terminality"
 	]
 }
